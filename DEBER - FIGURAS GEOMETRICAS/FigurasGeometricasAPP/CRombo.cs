@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -24,12 +25,6 @@ namespace FigurasGeometricasAPP
 
         public void LeerDatos(TextBox txtLado, TextBox txtAltura)
         {
-            if (string.IsNullOrWhiteSpace(txtLado.Text) || string.IsNullOrWhiteSpace(txtAltura.Text))
-            {
-                MessageBox.Show("Ingrese valores para el lado y la altura.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
-
             try
             {
                 mLado = float.Parse(txtLado.Text);
@@ -37,12 +32,12 @@ namespace FigurasGeometricasAPP
 
                 if (mLado <= 0 || mAltura <= 0)
                 {
-                    MessageBox.Show("El lado y la altura deben ser positivos.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Lado y altura deben ser positivos.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     mLado = 0;
                     mAltura = 0;
                 }
             }
-            catch (FormatException)
+            catch
             {
                 MessageBox.Show("Ingrese valores numéricos válidos.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 mLado = 0;
@@ -50,15 +45,9 @@ namespace FigurasGeometricasAPP
             }
         }
 
-        public void CalcularArea()
-        {
-            mArea = mLado * mAltura;
-        }
+        public void CalcularPerimetro() => mPerimetro = 4 * mLado;
 
-        public void CalcularPerimetro()
-        {
-            mPerimetro = 4 * mLado;
-        }
+        public void CalcularArea() => mArea = mLado * mAltura;
 
         public void MostrarDatos(TextBox txtPerimetro, TextBox txtArea)
         {
@@ -85,6 +74,43 @@ namespace FigurasGeometricasAPP
             txtPerimetro.Text = "";
             txtArea.Text = "";
             txtLado.Focus();
+        }
+
+        public void DibujarRombo(PictureBox picCanvas)
+        {
+            int ancho = picCanvas.Width;
+            int alto = picCanvas.Height;
+
+            Bitmap bmp = new Bitmap(ancho, alto);
+            Graphics g = Graphics.FromImage(bmp);
+            g.Clear(Color.White);
+
+            Pen lapiz = new Pen(Color.Black, 2);
+
+            // Escalar para visibilidad
+            float escala = 10.0f;
+            int lado = (int)(mLado * escala);
+            int altura = (int)(mAltura * escala);
+
+            if (lado == 0 || altura == 0)
+            {
+                MessageBox.Show("No se puede dibujar con valores cero.");
+                return;
+            }
+
+            int centroX = ancho / 2;
+            int centroY = alto / 2;
+
+            // Calcular puntos del rombo
+            Point[] puntos = new Point[4];
+            puntos[0] = new Point(centroX, centroY - altura / 2);     // arriba
+            puntos[1] = new Point(centroX + lado / 2, centroY);       // derecha
+            puntos[2] = new Point(centroX, centroY + altura / 2);     // abajo
+            puntos[3] = new Point(centroX - lado / 2, centroY);       // izquierda
+
+            g.DrawPolygon(lapiz, puntos);
+
+            picCanvas.Image = bmp;
         }
 
         public void CerrarFormulario(Form form)

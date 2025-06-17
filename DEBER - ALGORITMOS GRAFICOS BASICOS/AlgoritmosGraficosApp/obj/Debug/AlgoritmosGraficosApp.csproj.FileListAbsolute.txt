@@ -1,0 +1,14 @@
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\bin\Debug\AlgoritmosGraficosApp.exe.config
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\bin\Debug\AlgoritmosGraficosApp.exe
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\bin\Debug\AlgoritmosGraficosApp.pdb
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\obj\Debug\AlgoritmosGraficosApp.csproj.AssemblyReference.cache
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\obj\Debug\AlgoritmosGraficosApp.FrmIndex.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\obj\Debug\AlgoritmosGraficosApp.Properties.Resources.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\obj\Debug\AlgoritmosGraficosApp.csproj.GenerateResource.cache
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\obj\Debug\AlgoritmosGraficosApp.csproj.CoreCompileInputs.cache
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\obj\Debug\AlgoritmosGraficosApp.exe
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\obj\Debug\AlgoritmosGraficosApp.pdb
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\obj\Debug\AlgoritmosGraficosApp.FrmAlgoritmoDDA.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\obj\Debug\AlgoritmosGraficosApp.FrmAlgoritmoBresenham.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\obj\Debug\AlgoritmosGraficosApp.FrmDiscretizacionCircunferencia.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - ALGORITMOS GRAFICOS BASICOS\AlgoritmosGraficosApp\obj\Debug\AlgoritmosGraficosApp.FrmRellenoFiguras.resources

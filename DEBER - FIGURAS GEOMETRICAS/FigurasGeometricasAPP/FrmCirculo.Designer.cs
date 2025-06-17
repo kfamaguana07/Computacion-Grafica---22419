@@ -42,9 +42,11 @@
             this.txtRadio = new System.Windows.Forms.TextBox();
             this.lblRadio = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
+            this.picCanvas = new System.Windows.Forms.PictureBox();
             this.grbSalidas.SuspendLayout();
             this.grbProceso.SuspendLayout();
             this.grbEntrada.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).BeginInit();
             this.SuspendLayout();
             // 
             // lblTriangulo
@@ -52,7 +54,7 @@
             this.lblTriangulo.AutoSize = true;
             this.lblTriangulo.Font = new System.Drawing.Font("ROG Fonts", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTriangulo.ForeColor = System.Drawing.Color.Red;
-            this.lblTriangulo.Location = new System.Drawing.Point(305, 30);
+            this.lblTriangulo.Location = new System.Drawing.Point(448, 26);
             this.lblTriangulo.Name = "lblTriangulo";
             this.lblTriangulo.Size = new System.Drawing.Size(183, 36);
             this.lblTriangulo.TabIndex = 31;
@@ -65,7 +67,7 @@
             this.grbSalidas.Controls.Add(this.lblArea);
             this.grbSalidas.Controls.Add(this.lblPerimetro);
             this.grbSalidas.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.grbSalidas.Location = new System.Drawing.Point(207, 389);
+            this.grbSalidas.Location = new System.Drawing.Point(26, 393);
             this.grbSalidas.Margin = new System.Windows.Forms.Padding(4);
             this.grbSalidas.Name = "grbSalidas";
             this.grbSalidas.Padding = new System.Windows.Forms.Padding(4);
@@ -118,7 +120,7 @@
             this.grbProceso.Controls.Add(this.btnLimpiar);
             this.grbProceso.Controls.Add(this.btnCalcular);
             this.grbProceso.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.grbProceso.Location = new System.Drawing.Point(205, 266);
+            this.grbProceso.Location = new System.Drawing.Point(24, 270);
             this.grbProceso.Margin = new System.Windows.Forms.Padding(4);
             this.grbProceso.Name = "grbProceso";
             this.grbProceso.Padding = new System.Windows.Forms.Padding(4);
@@ -165,7 +167,7 @@
             this.grbEntrada.Controls.Add(this.txtRadio);
             this.grbEntrada.Controls.Add(this.lblRadio);
             this.grbEntrada.Font = new System.Drawing.Font("MS Reference Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.grbEntrada.Location = new System.Drawing.Point(210, 91);
+            this.grbEntrada.Location = new System.Drawing.Point(29, 95);
             this.grbEntrada.Margin = new System.Windows.Forms.Padding(4);
             this.grbEntrada.Name = "grbEntrada";
             this.grbEntrada.Padding = new System.Windows.Forms.Padding(4);
@@ -181,6 +183,7 @@
             this.txtRadio.Name = "txtRadio";
             this.txtRadio.Size = new System.Drawing.Size(132, 28);
             this.txtRadio.TabIndex = 2;
+            this.txtRadio.TextChanged += new System.EventHandler(this.txtRadio_TextChanged);
             // 
             // lblRadio
             // 
@@ -195,7 +198,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(485, 288);
+            this.button3.Location = new System.Drawing.Point(304, 292);
             this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(100, 36);
@@ -203,11 +206,22 @@
             this.button3.Text = "button3";
             this.button3.UseVisualStyleBackColor = true;
             // 
+            // picCanvas
+            // 
+            this.picCanvas.Location = new System.Drawing.Point(454, 95);
+            this.picCanvas.Name = "picCanvas";
+            this.picCanvas.Size = new System.Drawing.Size(557, 479);
+            this.picCanvas.TabIndex = 32;
+            this.picCanvas.TabStop = false;
+            this.picCanvas.Click += new System.EventHandler(this.picCanvas_Click);
+            this.picCanvas.MouseClick += new System.Windows.Forms.MouseEventHandler(this.picCanvas_MouseClick);
+            // 
             // FrmCirculo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 599);
+            this.ClientSize = new System.Drawing.Size(1041, 599);
+            this.Controls.Add(this.picCanvas);
             this.Controls.Add(this.lblTriangulo);
             this.Controls.Add(this.grbSalidas);
             this.Controls.Add(this.grbProceso);
@@ -221,6 +235,7 @@
             this.grbProceso.ResumeLayout(false);
             this.grbEntrada.ResumeLayout(false);
             this.grbEntrada.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -242,5 +257,6 @@
         private System.Windows.Forms.TextBox txtRadio;
         private System.Windows.Forms.Label lblRadio;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.PictureBox picCanvas;
     }
 }

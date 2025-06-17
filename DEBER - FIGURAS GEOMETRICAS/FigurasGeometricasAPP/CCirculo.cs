@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -84,5 +85,36 @@ namespace FigurasGeometricasAPP
         {
             form.Close();
         }
+
+        public void DibujarCirculo(PictureBox picCanvas)
+        {
+            if (mRadio > 0)
+            {
+                Bitmap bmp = new Bitmap(picCanvas.Width, picCanvas.Height);
+                using (Graphics g = Graphics.FromImage(bmp))
+                {
+                    g.Clear(Color.White);
+                    Pen pen = new Pen(Color.Blue, 2);
+
+                    // Convertir el radio a escala para que se vea dentro del PictureBox
+                    float escala = Math.Min(picCanvas.Width, picCanvas.Height) / (2 * mRadio + 20);
+                    float radioEscalado = mRadio * escala;
+
+                    // Centro del PictureBox
+                    float centroX = picCanvas.Width / 2;
+                    float centroY = picCanvas.Height / 2;
+
+                    // Dibujar el círculo
+                    g.DrawEllipse(pen, centroX - radioEscalado, centroY - radioEscalado, radioEscalado * 2, radioEscalado * 2);
+                }
+
+                picCanvas.Image = bmp;
+            }
+            else
+            {
+                picCanvas.Image = null;
+            }
+        }
+
     }
 }

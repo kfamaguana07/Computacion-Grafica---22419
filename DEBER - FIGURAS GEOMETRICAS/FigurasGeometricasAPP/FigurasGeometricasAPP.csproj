@@ -57,6 +57,7 @@
     <Compile Include="COctagono.cs" />
     <Compile Include="COvalo.cs" />
     <Compile Include="CPentagono.cs" />
+    <Compile Include="CPintar.cs" />
     <Compile Include="CRectangulo.cs" />
     <Compile Include="CRombo.cs" />
     <Compile Include="CRomboide.cs" />

@@ -26,3 +26,31 @@ D:\ESPE\QUINTO SEMESTRE\GRAFICA\FigurasGeometricasAPP\FigurasGeometricasAPP\obj\
 D:\ESPE\QUINTO SEMESTRE\GRAFICA\FigurasGeometricasAPP\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmDecagono.resources
 D:\ESPE\QUINTO SEMESTRE\GRAFICA\FigurasGeometricasAPP\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmEneagono.resources
 D:\ESPE\QUINTO SEMESTRE\GRAFICA\FigurasGeometricasAPP\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmIndex.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\bin\Debug\FigurasGeometricasAPP.exe.config
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\bin\Debug\FigurasGeometricasAPP.exe
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\bin\Debug\FigurasGeometricasAPP.pdb
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.csproj.AssemblyReference.cache
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmCirculo.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmCuadrado.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmDecagono.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmDeltoide.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmElipse.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmEneagono.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmHeptagono.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmHexagono.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmIndex.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmOctagono.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmOvalo.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmPentagono.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmRectangulo.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmRombo.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmRomboide.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmTrapecio.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmTrapecioIsoceles.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmTrapezoide.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.FrmTriangulo.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.Properties.Resources.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.csproj.GenerateResource.cache
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.csproj.CoreCompileInputs.cache
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.exe
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\DEBER - FIGURAS GEOMETRICAS\FigurasGeometricasAPP\obj\Debug\FigurasGeometricasAPP.pdb

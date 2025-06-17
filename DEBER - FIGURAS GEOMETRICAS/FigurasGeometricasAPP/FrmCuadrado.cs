@@ -14,6 +14,8 @@ namespace FigurasGeometricasAPP
     {
         private CCuadrado ObjCuadrado = new CCuadrado();
         private static FrmCuadrado instancia;
+        private CPintar ObjPintar = new CPintar();
+
         public FrmCuadrado()
         {
             InitializeComponent();
@@ -38,11 +40,13 @@ namespace FigurasGeometricasAPP
             ObjCuadrado.CalcularPerimetro();
             ObjCuadrado.CalcularArea();
             ObjCuadrado.MostrarDatos(txtPerimetro, txtArea);
+            ObjCuadrado.DibujarCuadrado(picCanvas); // Dibuja el círculo
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             ObjCuadrado.InicializarDatos(txtLado, txtPerimetro, txtArea);
+            picCanvas.Image = null;
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
@@ -53,6 +57,22 @@ namespace FigurasGeometricasAPP
         private void FrmCuadrado_Load(object sender, EventArgs e)
         {
             ObjCuadrado.InicializarDatos(txtLado, txtPerimetro, txtArea);
+            picCanvas.MouseClick += picCanvas_MouseClick;
+        }
+
+        private void picCanvas_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void picCanvas_MouseClick(object sender, MouseEventArgs e)
+        {
+            if (picCanvas.Image != null)
+            {
+                Bitmap bmp = new Bitmap(picCanvas.Image);
+                ObjPintar.FloodFill(bmp, e.X, e.Y, Color.Red);
+                picCanvas.Image = bmp;
+            }
         }
     }
 }
