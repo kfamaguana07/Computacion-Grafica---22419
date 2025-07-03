@@ -197,6 +197,7 @@
             this.btnCurvasBézier.TabIndex = 9;
             this.btnCurvasBézier.Text = "Curvas Bézier";
             this.btnCurvasBézier.UseVisualStyleBackColor = false;
+            this.btnCurvasBézier.Click += new System.EventHandler(this.btnCurvasBézier_Click);
             // 
             // btnSplines
             // 

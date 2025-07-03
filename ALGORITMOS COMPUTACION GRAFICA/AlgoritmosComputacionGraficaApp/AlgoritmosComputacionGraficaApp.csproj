@@ -48,12 +48,14 @@
   <ItemGroup>
     <Compile Include="CAlgoritmoBresenham.cs" />
     <Compile Include="CBresenhamElipses.cs" />
+    <Compile Include="CBézier.cs" />
     <Compile Include="CCohenSutherland.cs" />
     <Compile Include="CDDA.cs" />
     <Compile Include="CDiscretizacionCircunferencia.cs" />
     <Compile Include="CPintar.cs" />
     <Compile Include="CRellenoFiguras.cs" />
     <Compile Include="CScanline.cs" />
+    <Compile Include="CSplines.cs" />
     <Compile Include="CSutherlandHodgman.cs" />
     <Compile Include="FrmAlgoritmoBresenham.cs">
       <SubType>Form</SubType>
@@ -66,6 +68,18 @@
     </Compile>
     <Compile Include="FrmBresenhamElipses.Designer.cs">
       <DependentUpon>FrmBresenhamElipses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBSplines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBSplines.Designer.cs">
+      <DependentUpon>FrmBSplines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBézier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBézier.Designer.cs">
+      <DependentUpon>FrmBézier.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmCohenSutherland.cs">
       <SubType>Form</SubType>
@@ -116,6 +130,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmBresenhamElipses.resx">
       <DependentUpon>FrmBresenhamElipses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBSplines.resx">
+      <DependentUpon>FrmBSplines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBézier.resx">
+      <DependentUpon>FrmBézier.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmCohenSutherland.resx">
       <DependentUpon>FrmCohenSutherland.cs</DependentUpon>

@@ -32,7 +32,8 @@ namespace AlgoritmosComputacionGraficaApp
 
         private void btnSplines_Click(object sender, EventArgs e)
         {
-
+            FrmBSplines frm = FrmBSplines.ObtenerInstancia();
+            frm.Show();
         }
 
         private void btnBresenhamLineas_Click(object sender, EventArgs e)
@@ -74,6 +75,12 @@ namespace AlgoritmosComputacionGraficaApp
         private void btnSutherlandHodgman_Click(object sender, EventArgs e)
         {
             FrmSutherlandHodgman frm = FrmSutherlandHodgman.ObtenerInstancia();
+            frm.Show();
+        }
+
+        private void btnCurvasBézier_Click(object sender, EventArgs e)
+        {
+            FrmBézier frm = FrmBézier.ObtenerInstancia();
             frm.Show();
         }
     }

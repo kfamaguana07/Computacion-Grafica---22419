@@ -16,3 +16,5 @@ D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACI
 D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACION GRAFICA\AlgoritmosComputacionGraficaApp\obj\Debug\AlgoritmosComputacionGraficaApp.FrmBresenhamElipses.resources
 D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACION GRAFICA\AlgoritmosComputacionGraficaApp\obj\Debug\AlgoritmosComputacionGraficaApp.FrmScanline.resources
 D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACION GRAFICA\AlgoritmosComputacionGraficaApp\obj\Debug\AlgoritmosComputacionGraficaApp.FrmSutherlandHodgman.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACION GRAFICA\AlgoritmosComputacionGraficaApp\obj\Debug\AlgoritmosComputacionGraficaApp.FrmBézier.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACION GRAFICA\AlgoritmosComputacionGraficaApp\obj\Debug\AlgoritmosComputacionGraficaApp.FrmBSplines.resources
