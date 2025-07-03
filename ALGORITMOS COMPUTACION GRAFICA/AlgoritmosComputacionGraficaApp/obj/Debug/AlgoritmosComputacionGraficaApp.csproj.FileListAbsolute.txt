@@ -12,3 +12,7 @@ D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACI
 D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACION GRAFICA\AlgoritmosComputacionGraficaApp\obj\Debug\AlgoritmosGraficosApp.FrmAlgoritmoBresenham.resources
 D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACION GRAFICA\AlgoritmosComputacionGraficaApp\obj\Debug\AlgoritmosGraficosApp.FrmDiscretizacionCircunferencia.resources
 D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACION GRAFICA\AlgoritmosComputacionGraficaApp\obj\Debug\AlgoritmosGraficosApp.FrmRellenoFiguras.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACION GRAFICA\AlgoritmosComputacionGraficaApp\obj\Debug\CohenSutherlandAPP.FrmCohenSutherland.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACION GRAFICA\AlgoritmosComputacionGraficaApp\obj\Debug\AlgoritmosComputacionGraficaApp.FrmBresenhamElipses.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACION GRAFICA\AlgoritmosComputacionGraficaApp\obj\Debug\AlgoritmosComputacionGraficaApp.FrmScanline.resources
+D:\ESPE\QUINTO SEMESTRE\GRAFICA\Computacion-Grafica---22419\ALGORITMOS COMPUTACION GRAFICA\AlgoritmosComputacionGraficaApp\obj\Debug\AlgoritmosComputacionGraficaApp.FrmSutherlandHodgman.resources

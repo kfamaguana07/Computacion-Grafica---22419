@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|d:\\espe\\quinto semestre\\grafica\\computacion-grafica---22419\\algoritmos computacion grafica\\algoritmoscomputaciongraficaapp\\frmrellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|solutionrelative:algoritmoscomputaciongraficaapp\\frmrellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|d:\\espe\\quinto semestre\\grafica\\computacion-grafica---22419\\algoritmos computacion grafica\\algoritmoscomputaciongraficaapp\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|solutionrelative:algoritmoscomputaciongraficaapp\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|d:\\espe\\quinto semestre\\grafica\\computacion-grafica---22419\\algoritmos computacion grafica\\algoritmoscomputaciongraficaapp\\cpintar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|solutionrelative:algoritmoscomputaciongraficaapp\\cpintar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|d:\\espe\\quinto semestre\\grafica\\computacion-grafica---22419\\algoritmos computacion grafica\\algoritmoscomputaciongraficaapp\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|solutionrelative:algoritmoscomputaciongraficaapp\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|d:\\espe\\quinto semestre\\grafica\\computacion-grafica---22419\\algoritmos computacion grafica\\algoritmoscomputaciongraficaapp\\crellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|solutionrelative:algoritmoscomputaciongraficaapp\\crellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|d:\\espe\\quinto semestre\\grafica\\computacion-grafica---22419\\algoritmos computacion grafica\\algoritmoscomputaciongraficaapp\\frmsutherlandhodgman .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|solutionrelative:algoritmoscomputaciongraficaapp\\frmsutherlandhodgman .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|d:\\espe\\quinto semestre\\grafica\\computacion-grafica---22419\\algoritmos computacion grafica\\algoritmoscomputaciongraficaapp\\csutherlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|solutionrelative:algoritmoscomputaciongraficaapp\\csutherlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|d:\\espe\\quinto semestre\\grafica\\computacion-grafica---22419\\algoritmos computacion grafica\\algoritmoscomputaciongraficaapp\\frmsutherlandhodgman .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D318E4EF-6815-43A7-AE8D-47E2891E5D4D}|AlgoritmosComputacionGraficaApp\\AlgoritmosComputacionGraficaApp.csproj|solutionrelative:algoritmoscomputaciongraficaapp\\frmsutherlandhodgman .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmRellenoFiguras.cs",
-              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\FrmRellenoFiguras.cs",
-              "RelativeDocumentMoniker": "AlgoritmosComputacionGraficaApp\\FrmRellenoFiguras.cs",
-              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\FrmRellenoFiguras.cs",
-              "RelativeToolTip": "AlgoritmosComputacionGraficaApp\\FrmRellenoFiguras.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAiwEUAAAA3AAAAAAAAAA==",
+              "Title": "FrmIndex.cs",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\FrmIndex.cs",
+              "RelativeDocumentMoniker": "AlgoritmosComputacionGraficaApp\\FrmIndex.cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\FrmIndex.cs",
+              "RelativeToolTip": "AlgoritmosComputacionGraficaApp\\FrmIndex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T01:47:59.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CRellenoFiguras.cs",
-              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\CRellenoFiguras.cs",
-              "RelativeDocumentMoniker": "AlgoritmosComputacionGraficaApp\\CRellenoFiguras.cs",
-              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\CRellenoFiguras.cs",
-              "RelativeToolTip": "AlgoritmosComputacionGraficaApp\\CRellenoFiguras.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAuwHkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T01:47:47.072Z",
+              "WhenOpened": "2025-07-03T03:41:55.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CPintar.cs",
-              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\CPintar.cs",
-              "RelativeDocumentMoniker": "AlgoritmosComputacionGraficaApp\\CPintar.cs",
-              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\CPintar.cs",
-              "RelativeToolTip": "AlgoritmosComputacionGraficaApp\\CPintar.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
+              "Title": "FrmIndex.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\FrmIndex.cs",
+              "RelativeDocumentMoniker": "AlgoritmosComputacionGraficaApp\\FrmIndex.cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\FrmIndex.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlgoritmosComputacionGraficaApp\\FrmIndex.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T01:47:35.104Z",
+              "WhenOpened": "2025-07-03T03:41:53.752Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmSutherlandHodgman .cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\FrmSutherlandHodgman .cs",
+              "RelativeDocumentMoniker": "AlgoritmosComputacionGraficaApp\\FrmSutherlandHodgman .cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\FrmSutherlandHodgman .cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlgoritmosComputacionGraficaApp\\FrmSutherlandHodgman .cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:36:39.698Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSutherlandHodgman.cs",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\CSutherlandHodgman.cs",
+              "RelativeDocumentMoniker": "AlgoritmosComputacionGraficaApp\\CSutherlandHodgman.cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\CSutherlandHodgman.cs",
+              "RelativeToolTip": "AlgoritmosComputacionGraficaApp\\CSutherlandHodgman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:35:33.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSutherlandHodgman .cs",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\FrmSutherlandHodgman .cs",
+              "RelativeDocumentMoniker": "AlgoritmosComputacionGraficaApp\\FrmSutherlandHodgman .cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS COMPUTACION GRAFICA\\AlgoritmosComputacionGraficaApp\\FrmSutherlandHodgman .cs",
+              "RelativeToolTip": "AlgoritmosComputacionGraficaApp\\FrmSutherlandHodgman .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:33:31.528Z",
               "EditorCaption": ""
             }
           ]

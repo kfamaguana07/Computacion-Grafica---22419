@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using AlgoritmosGraficosApp;
+using CohenSutherlandAPP;
 
 namespace AlgoritmosComputacionGraficaApp
 {
@@ -49,6 +50,30 @@ namespace AlgoritmosComputacionGraficaApp
         private void btnFloodFill_Click(object sender, EventArgs e)
         {
             FrmRellenoFiguras frm = FrmRellenoFiguras.ObtenerInstancia();
+            frm.Show();
+        }
+
+        private void btnCohenSutherland_Click(object sender, EventArgs e)
+        {
+            FrmCohenSutherland frm = FrmCohenSutherland.ObtenerInstancia();
+            frm.Show();
+        }
+
+        private void btnBresenhamElipses_Click(object sender, EventArgs e)
+        {
+            FrmBresenhamElipses frm = FrmBresenhamElipses.ObtenerInstancia();
+            frm.Show();
+        }
+
+        private void btnRellenoScaline_Click(object sender, EventArgs e)
+        {
+            FrmScanline frm = FrmScanline.ObtenerInstancia();
+            frm.Show();
+        }
+
+        private void btnSutherlandHodgman_Click(object sender, EventArgs e)
+        {
+            FrmSutherlandHodgman frm = FrmSutherlandHodgman.ObtenerInstancia();
             frm.Show();
         }
     }

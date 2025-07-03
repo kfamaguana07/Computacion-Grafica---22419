@@ -47,15 +47,31 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CAlgoritmoBresenham.cs" />
+    <Compile Include="CBresenhamElipses.cs" />
+    <Compile Include="CCohenSutherland.cs" />
     <Compile Include="CDDA.cs" />
     <Compile Include="CDiscretizacionCircunferencia.cs" />
     <Compile Include="CPintar.cs" />
     <Compile Include="CRellenoFiguras.cs" />
+    <Compile Include="CScanline.cs" />
+    <Compile Include="CSutherlandHodgman.cs" />
     <Compile Include="FrmAlgoritmoBresenham.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmAlgoritmoBresenham.Designer.cs">
       <DependentUpon>FrmAlgoritmoBresenham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBresenhamElipses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBresenhamElipses.Designer.cs">
+      <DependentUpon>FrmBresenhamElipses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCohenSutherland.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCohenSutherland.Designer.cs">
+      <DependentUpon>FrmCohenSutherland.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmDDA.cs">
       <SubType>Form</SubType>
@@ -81,10 +97,28 @@
     <Compile Include="FrmRellenoFiguras.Designer.cs">
       <DependentUpon>FrmRellenoFiguras.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmScanline .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmScanline .Designer.cs">
+      <DependentUpon>FrmScanline .cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSutherlandHodgman .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSutherlandHodgman .Designer.cs">
+      <DependentUpon>FrmSutherlandHodgman .cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmAlgoritmoBresenham.resx">
       <DependentUpon>FrmAlgoritmoBresenham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBresenhamElipses.resx">
+      <DependentUpon>FrmBresenhamElipses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCohenSutherland.resx">
+      <DependentUpon>FrmCohenSutherland.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmDDA.resx">
       <DependentUpon>FrmDDA.cs</DependentUpon>
@@ -97,6 +131,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmRellenoFiguras.resx">
       <DependentUpon>FrmRellenoFiguras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmScanline .resx">
+      <DependentUpon>FrmScanline .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSutherlandHodgman .resx">
+      <DependentUpon>FrmSutherlandHodgman .cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

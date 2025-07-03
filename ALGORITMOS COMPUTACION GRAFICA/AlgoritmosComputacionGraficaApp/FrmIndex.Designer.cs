@@ -112,6 +112,7 @@
             this.btnBresenhamElipses.TabIndex = 3;
             this.btnBresenhamElipses.Text = "Bresenham Elipses";
             this.btnBresenhamElipses.UseVisualStyleBackColor = false;
+            this.btnBresenhamElipses.Click += new System.EventHandler(this.btnBresenhamElipses_Click);
             // 
             // btnFloodFill
             // 
@@ -145,6 +146,7 @@
             this.btnRellenoScaline.TabIndex = 5;
             this.btnRellenoScaline.Text = "Relleno +1";
             this.btnRellenoScaline.UseVisualStyleBackColor = false;
+            this.btnRellenoScaline.Click += new System.EventHandler(this.btnRellenoScaline_Click);
             // 
             // btnCohenSutherland
             // 
@@ -161,6 +163,7 @@
             this.btnCohenSutherland.TabIndex = 7;
             this.btnCohenSutherland.Text = "Cohen Sutherland";
             this.btnCohenSutherland.UseVisualStyleBackColor = false;
+            this.btnCohenSutherland.Click += new System.EventHandler(this.btnCohenSutherland_Click);
             // 
             // btnSutherlandHodgman
             // 
@@ -177,6 +180,7 @@
             this.btnSutherlandHodgman.TabIndex = 8;
             this.btnSutherlandHodgman.Text = "Sutherland Hodgman";
             this.btnSutherlandHodgman.UseVisualStyleBackColor = false;
+            this.btnSutherlandHodgman.Click += new System.EventHandler(this.btnSutherlandHodgman_Click);
             // 
             // btnCurvasBézier
             // 
