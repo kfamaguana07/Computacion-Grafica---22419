@@ -1,38 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\",
+  "WorkspaceRootPath": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|d:\\espe\\quinto semestre\\grafica\\computacion-grafica---22419\\deber - algoritmos graficos basicos\\algoritmosgraficosapp\\frmalgoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|d:\\espe\\quinto semestre\\grafica\\computacion-grafica---22419\\algoritmos graficos basicos\\algoritmosgraficosapp\\frmalgoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\frmalgoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|d:\\espe\\quinto semestre\\grafica\\computacion-grafica---22419\\algoritmos graficos basicos\\algoritmosgraficosapp\\frmalgoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\frmalgoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\cpintar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\cpintar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\cdiscretizacioncircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\cdiscretizacioncircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\crellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\crellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\calgoritmobresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\calgoritmobresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\calgoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\calgoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\cpintar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\cpintar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\cdiscretizacioncircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\cdiscretizacioncircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\crellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\crellenofiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\calgoritmobresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\calgoritmobresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\algoritmosgraficosapp\\calgoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD65BFEC-A1A0-44A7-9518-D718BD239E54}|AlgoritmosGraficosApp\\AlgoritmosGraficosApp.csproj|solutionrelative:algoritmosgraficosapp\\calgoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,34 +55,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmAlgoritmoDDA.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmAlgoritmoDDA.cs",
+              "Title": "FrmAlgoritmoDDA.cs",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmAlgoritmoDDA.cs",
               "RelativeDocumentMoniker": "AlgoritmosGraficosApp\\FrmAlgoritmoDDA.cs",
-              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmAlgoritmoDDA.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AlgoritmosGraficosApp\\FrmAlgoritmoDDA.cs [Dise\u00F1o]",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmAlgoritmoDDA.cs*",
+              "RelativeToolTip": "AlgoritmosGraficosApp\\FrmAlgoritmoDDA.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:15:53.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAlgoritmoDDA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmAlgoritmoDDA.cs",
+              "RelativeDocumentMoniker": "AlgoritmosGraficosApp\\FrmAlgoritmoDDA.cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmAlgoritmoDDA.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "AlgoritmosGraficosApp\\FrmAlgoritmoDDA.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T16:51:37.806Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CDiscretizacionCircunferencia.cs",
-              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CDiscretizacionCircunferencia.cs",
-              "RelativeDocumentMoniker": "AlgoritmosGraficosApp\\CDiscretizacionCircunferencia.cs",
-              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CDiscretizacionCircunferencia.cs",
-              "RelativeToolTip": "AlgoritmosGraficosApp\\CDiscretizacionCircunferencia.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T03:35:18.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CAlgoritmoBresenham.cs",
-              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CAlgoritmoBresenham.cs",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CAlgoritmoBresenham.cs",
               "RelativeDocumentMoniker": "AlgoritmosGraficosApp\\CAlgoritmoBresenham.cs",
-              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CAlgoritmoBresenham.cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CAlgoritmoBresenham.cs",
               "RelativeToolTip": "AlgoritmosGraficosApp\\CAlgoritmoBresenham.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAQwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,11 +91,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "CAlgoritmoDDA.cs",
-              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CAlgoritmoDDA.cs",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CAlgoritmoDDA.cs",
               "RelativeDocumentMoniker": "AlgoritmosGraficosApp\\CAlgoritmoDDA.cs",
-              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CAlgoritmoDDA.cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CAlgoritmoDDA.cs",
               "RelativeToolTip": "AlgoritmosGraficosApp\\CAlgoritmoDDA.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAQwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,11 +103,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CPintar.cs",
-              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CPintar.cs",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CPintar.cs",
               "RelativeDocumentMoniker": "AlgoritmosGraficosApp\\CPintar.cs",
-              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CPintar.cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CPintar.cs",
               "RelativeToolTip": "AlgoritmosGraficosApp\\CPintar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,38 +115,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CRellenoFiguras.cs",
-              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CRellenoFiguras.cs",
-              "RelativeDocumentMoniker": "AlgoritmosGraficosApp\\CRellenoFiguras.cs",
-              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CRellenoFiguras.cs",
-              "RelativeToolTip": "AlgoritmosGraficosApp\\CRellenoFiguras.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAYwGUAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FrmIndex.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmIndex.cs",
+              "RelativeDocumentMoniker": "AlgoritmosGraficosApp\\FrmIndex.cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmIndex.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlgoritmosGraficosApp\\FrmIndex.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T03:35:32.106Z"
+              "WhenOpened": "2025-06-17T03:22:26.226Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "FrmIndex.cs",
-              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmIndex.cs",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmIndex.cs",
               "RelativeDocumentMoniker": "AlgoritmosGraficosApp\\FrmIndex.cs",
-              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmIndex.cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmIndex.cs",
               "RelativeToolTip": "AlgoritmosGraficosApp\\FrmIndex.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAASwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T03:22:28.533Z"
+              "WhenOpened": "2025-06-17T03:22:28.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CDiscretizacionCircunferencia.cs",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CDiscretizacionCircunferencia.cs",
+              "RelativeDocumentMoniker": "AlgoritmosGraficosApp\\CDiscretizacionCircunferencia.cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CDiscretizacionCircunferencia.cs",
+              "RelativeToolTip": "AlgoritmosGraficosApp\\CDiscretizacionCircunferencia.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:35:18.257Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FrmIndex.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmIndex.cs",
-              "RelativeDocumentMoniker": "AlgoritmosGraficosApp\\FrmIndex.cs",
-              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\DEBER - ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\FrmIndex.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AlgoritmosGraficosApp\\FrmIndex.cs [Dise\u00F1o]",
+              "Title": "CRellenoFiguras.cs",
+              "DocumentMoniker": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CRellenoFiguras.cs",
+              "RelativeDocumentMoniker": "AlgoritmosGraficosApp\\CRellenoFiguras.cs",
+              "ToolTip": "D:\\ESPE\\QUINTO SEMESTRE\\GRAFICA\\Computacion-Grafica---22419\\ALGORITMOS GRAFICOS BASICOS\\AlgoritmosGraficosApp\\CRellenoFiguras.cs",
+              "RelativeToolTip": "AlgoritmosGraficosApp\\CRellenoFiguras.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwGUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T03:22:26.226Z"
+              "WhenOpened": "2025-06-17T03:35:32.106Z"
             }
           ]
         }

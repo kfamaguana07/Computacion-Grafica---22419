@@ -46,14 +46,58 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="CAlgoritmoBresenham.cs" />
+    <Compile Include="CDDA.cs" />
+    <Compile Include="CDiscretizacionCircunferencia.cs" />
+    <Compile Include="CPintar.cs" />
+    <Compile Include="CRellenoFiguras.cs" />
+    <Compile Include="FrmAlgoritmoBresenham.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FrmAlgoritmoBresenham.Designer.cs">
+      <DependentUpon>FrmAlgoritmoBresenham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDDA.Designer.cs">
+      <DependentUpon>FrmDDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDiscretizacionCircunferencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDiscretizacionCircunferencia.Designer.cs">
+      <DependentUpon>FrmDiscretizacionCircunferencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIndex.Designer.cs">
+      <DependentUpon>FrmIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRellenoFiguras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRellenoFiguras.Designer.cs">
+      <DependentUpon>FrmRellenoFiguras.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAlgoritmoBresenham.resx">
+      <DependentUpon>FrmAlgoritmoBresenham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDDA.resx">
+      <DependentUpon>FrmDDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDiscretizacionCircunferencia.resx">
+      <DependentUpon>FrmDiscretizacionCircunferencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIndex.resx">
+      <DependentUpon>FrmIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRellenoFiguras.resx">
+      <DependentUpon>FrmRellenoFiguras.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
